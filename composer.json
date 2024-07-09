@@ -24,7 +24,8 @@
         "drupal/devel": "^5.2",
         "drupal/helloworld": "^2.0",
         "drupal/pathauto": "^1.12",
-        "drupal/restui": "^1.21"
+        "drupal/restui": "^1.21",
+        "drush/drush": "^12.5"
     },
     "conflict": {
         "drupal/drupal": "*"

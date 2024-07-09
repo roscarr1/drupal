@@ -22,4 +22,4 @@ then enable the "Hello World" D8 module.
 The Hello World module does not need any specific
 configuration. After the enabling of module you will
 directly see the new main menu link "Hello World" and
-just click on it. That is all.
+just click on it. That is all.  
